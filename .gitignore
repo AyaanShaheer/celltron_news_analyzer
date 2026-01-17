@@ -17,9 +17,6 @@ ENV/
 *.swp
 *.swo
 
-# Output files (optional - you may want to commit these)
-output/*.json
-output/*.md
 
 # OS
 .DS_Store
