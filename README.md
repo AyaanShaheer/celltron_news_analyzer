@@ -165,6 +165,10 @@ python -m pytest tests/test_analyzer.py -v
 
 ## 🏗️ Architecture
 
+<img width="2816" height="1399" alt="Gemini_Generated_Image_qhkix8qhkix8qhki" src="https://github.com/user-attachments/assets/84c80350-7177-494e-b38f-cb99da7860a1" />
+
+
+
 ```
 ┌─────────────┐
 │  NewsAPI    │
@@ -189,6 +193,7 @@ python -m pytest tests/test_analyzer.py -v
 ┌─────────────────┐
 │  Output Gen     │ ─── JSON + Markdown reports
 └─────────────────┘
+
 ```
 
 ## 🔑 Key Design Decisions
