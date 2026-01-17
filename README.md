@@ -36,7 +36,7 @@ celltron-news-analyzer/
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AyaanShaheer/celltron_news_analyzer.git
 cd celltron-news-analyzer
 ```
 
@@ -431,7 +431,7 @@ git add .
 git commit -m "Complete news analysis pipeline with dual LLM validation"
 
 # Create repo on GitHub, then:
-git remote add origin <your-repo-url>
+git remote add origin https://github.com/AyaanShaheer/celltron_news_analyzer.git
 git branch -M main
 git push -u origin main
 ```
@@ -449,5 +449,4 @@ python main.py
 dir output
 ```
 
-***
 
